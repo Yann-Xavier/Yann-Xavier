@@ -1,7 +1,7 @@
 ### Olá, eu sou a Yann Xavier! Bem vindo(a) ao meu perfil. 🤙
 
 
-<img src="[https://avatars.githubusercontent.com/u/135256883?s=400&u=c4307d2c53767f793af4ff1c3729354113fa9056&v=4](https://www.bing.com/images/create/crie-uma-ilustrac3a7c3a3o-3d-de-um-personagem-brasileiro/1-65e7b61116cd4a7ab4fc8f26563974cf?id=0cUJRWAQRwQhDFAnH3%2baew%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.HLeBoV7Iq33yPc5Ij1if&darkschemeovr=1&FORM=GCRIDP)" width="300" height="300" title="Avatar">
+<img src="https://github.com/Yann-Xavier/IMG/blob/main/_4ca0d619-8f50-4491-914d-20cf7a320cbc.jpg?raw=true" width="300" height="300" title="Avatar">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yann_xavierr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-xavier-178b58b8)
