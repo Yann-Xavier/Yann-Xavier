@@ -1,5 +1,4 @@
-### Olá, eu sou a Yann Xavier! Bem vindo(a) ao meu perfil. 🤙
-
+### Olá, eu sou o Yann Xavier! Bem-vindo(a) ao meu perfil. 🤙
 
 <img src="https://github.com/Yann-Xavier/IMG/blob/main/_4ca0d619-8f50-4491-914d-20cf7a320cbc.jpg?raw=true" width="300" height="300" title="Avatar">
 
@@ -8,15 +7,15 @@
 
 ## 🔍 Sobre mim:
 
-🎓 Educação: Cursando o 3º período de Análise e Desenvolvimento de Software na Faculdade Mauricio de Nassau.
+🎓 **Educação:** Cursando o 3º período de Análise e Desenvolvimento de Software na Faculdade Mauricio de Nassau.
 
 Sou um estudante entusiasmado de Análise e Desenvolvimento de Software com uma paixão pela programação e resolução de problemas. Estou constantemente buscando aprimorar minhas habilidades técnicas e expandir meu conhecimento em diversas linguagens de programação.
 
 Estou buscando oportunidades de trabalho freelancer onde eu possa aplicar e aprimorar minhas habilidades, contribuindo para projetos inovadores e desafiadores.
 
 ## Áreas de Conhecimento
-<div style="display:inline-block"
-</br>
+
+<div style="display:inline-block">
       <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -28,7 +27,8 @@ Estou buscando oportunidades de trabalho freelancer onde eu possa aplicar e apri
 </div>
 </br>
 
-## Minhas Estatística no GITHUB
-![Yann Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=Yann-Xavier&show_icons=true&theme=Blue_Navy&locale=pt-br)
+## Minhas Estatísticas no GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Xavier&hide_progress=true)
+![Yann Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=Yann-Xavier&show_icons=true&theme=blueberry&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Xavier&layout=compact&theme=blueberry)
