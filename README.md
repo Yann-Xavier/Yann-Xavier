@@ -16,6 +16,7 @@ Estou buscando oportunidades de trabalho freelancer onde eu possa aplicar e apri
 ## Áreas de Conhecimento
 
 <div style="display:inline-block">
+  <br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
