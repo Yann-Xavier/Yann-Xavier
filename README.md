@@ -7,7 +7,7 @@
 
 ## 🔍 Sobre mim:
 
-🎓 **Educação:** Cursando o 3º período de Análise e Desenvolvimento de Software na Faculdade Mauricio de Nassau.
+🎓 **Educação:** Cursando o 4º período de Análise e Desenvolvimento de Software na Faculdade Mauricio de Nassau.
 
 Sou um estudante entusiasmado de Análise e Desenvolvimento de Software com uma paixão pela programação e resolução de problemas. Estou constantemente buscando aprimorar minhas habilidades técnicas e expandir meu conhecimento em diversas linguagens de programação.
 
