@@ -2,9 +2,9 @@
 
 # Yann Xavier
 
-### Customer Success Leader | IA Aplicada · Engenharia de Prompt · Automação de Processos · Tecnologia & CX
+### Customer Success Leader | IA Aplicada · Engenharia de Prompt · Automação de Processos · Dados · Tecnologia & CX
 
-<img src="https://raw.githubusercontent.com/Yann-Xavier/IMG/main/yann-xavier-ai-cs.png" width="420" alt="Yann Xavier - IA Aplicada, Customer Success, Automação e Dados">
+<img src="https://raw.githubusercontent.com/Yann-Xavier/IMG/main/ChatGPT%20Image%2013%20de%20mai.%20de%202026%2C%2015_47_36.png" width="460" alt="Yann Xavier - IA Aplicada, Customer Success, Automação e Dados">
 
 <br><br>
 
@@ -20,44 +20,35 @@
 
 Sou **líder de Customer Success/Suporte com base técnica em tecnologia, IA aplicada, automação de processos e análise de dados**.
 
-Tenho mais de **10 anos de experiência em liderança de equipes, operações de atendimento, melhoria de performance e gestão de indicadores**. Minha atuação conecta pessoas, processos e tecnologia para gerar eficiência operacional, reduzir fricções na jornada do cliente e transformar dados em decisões práticas.
+Tenho mais de **10 anos de experiência em liderança de equipes, operações de atendimento, melhoria de performance, gestão de indicadores e desenvolvimento de pessoas**. Minha atuação conecta **pessoas, processos, dados e tecnologia** para gerar eficiência operacional, reduzir fricções na jornada do cliente e transformar informações dispersas em decisões práticas.
 
-Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, agentes de IA, automações e dashboards** no contexto de **CS, CX, Suporte e SaaS**, com foco em:
-
-- Redução de fricção operacional;
-- Automação de fluxos repetitivos;
-- Criação de agentes internos com guardrails;
-- Estruturação de bases de conhecimento;
-- Análise de indicadores e performance;
-- Melhoria contínua em operações de atendimento;
-- Apoio à retenção, expansão e experiência do cliente.
+Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, agentes de IA, automações, dashboards e bases de conhecimento** no contexto de **CS, CX, Suporte e SaaS**.
 
 > Tecnologia sem estratégia humana não escala.  
 > Estratégia sem tecnologia não sobrevive.
 
 ---
 
-## Foco profissional
+## Posicionamento profissional
+
+Meu foco é transformar operações de atendimento e Customer Success em sistemas mais inteligentes, mensuráveis e escaláveis.
+
+Atuo principalmente em:
 
 - **Customer Success e Suporte em SaaS**
-- **IA aplicada a operações de atendimento**
-- **Engenharia de Prompt e agentes inteligentes**
+- **IA aplicada a CS, CX e operações internas**
+- **Engenharia de Prompt e arquitetura de agentes**
 - **Automação de processos com Python, JavaScript e APIs**
-- **Dashboards, indicadores e análise de dados**
-- **Melhoria contínua com PDCA, 5 Porquês e SWOT**
-- **Gestão de equipes, produtividade e performance operacional**
+- **Dashboards, indicadores, KPIs e análise de performance**
+- **Bases de conhecimento, guardrails e testes de agentes**
+- **Melhoria contínua com PDCA, 5 Porquês e análise SWOT**
+- **Gestão de equipes, produtividade e eficiência operacional**
 
 ---
 
-## Formação acadêmica
+## Áreas de especialidade
 
-- **Análise e Desenvolvimento de Software** — UNINASSAU  
-- **Gestão de Pessoas com Ênfase em Liderança Organizacional** — Yassaka  
-- **Programação de Computadores** — Unibratec  
-
----
-
-## IA, Prompt Engineering e Agentes
+### IA, Prompt Engineering e Agentes
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -65,17 +56,17 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 
 - Engenharia de Prompt
-- Agentes de IA
-- Claude Skills
-- Subagentes
-- Bases de conhecimento
-- Guardrails
-- Testes de comportamento
-- Automação com IA Generativa
+- IA Generativa aplicada a negócios
+- Criação de agentes personalizados
+- Claude Skills e subagentes
+- Gems, GPTs personalizados e assistentes internos
+- Bases de conhecimento estruturadas
+- Guardrails, validação e matriz de testes
+- Redução de alucinação e respostas fora de escopo
 
 ---
 
-## Desenvolvimento e Automação
+### Desenvolvimento, Automação e Integrações
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -83,18 +74,21 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - Python para automação e análise
 - JavaScript para aplicações web
 - HTML, CSS e interfaces responsivas
 - React.js
+- Git e versionamento
+- Linux
 - Integração com APIs
 - Scripts para produtividade operacional
 
 ---
 
-## Dados, Indicadores e Business Intelligence
+### Dados, Indicadores e Business Intelligence
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -103,14 +97,15 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 - SQL
 - Power BI
 - Excel avançado
-- KPIs e indicadores de gestão
-- Análise exploratória de dados
+- KPIs e métricas de gestão
 - Dashboards executivos
-- Métricas de CS, Suporte e performance
+- Análise exploratória de dados
+- Relatórios operacionais e estratégicos
+- Indicadores de CS, Suporte, produtividade e performance
 
 ---
 
-## Gestão, CS e Melhoria Contínua
+### CS, Gestão e Melhoria Contínua
 
 ![Customer Success](https://img.shields.io/badge/Customer_Success-0077B5?style=for-the-badge)
 ![SaaS](https://img.shields.io/badge/SaaS-0A66C2?style=for-the-badge)
@@ -122,6 +117,7 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 - Gestão de equipes
 - Gestão de conflitos
 - Treinamento e desenvolvimento
+- Avaliação de desempenho
 - PDCA
 - 5 Porquês
 - Análise SWOT
@@ -130,26 +126,56 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 
 ---
 
+## Formação acadêmica
+
+- **Análise e Desenvolvimento de Software** — UNINASSAU  
+- **Gestão de Pessoas com Ênfase em Liderança Organizacional** — Yassaka  
+- **Programação de Computadores** — Unibratec  
+
+---
+
 ## Projetos e interesses atuais
 
-Atualmente, meus principais estudos e projetos estão concentrados em:
+Atualmente, concentro meus estudos e projetos em:
 
-- Criação de **agentes de IA para CS, Suporte e operações internas**;
-- Desenvolvimento de **assistentes com base documental e respostas rastreáveis**;
-- Estruturação de **dashboards para tomada de decisão executiva**;
-- Automação de relatórios e fluxos operacionais;
-- Aplicação de IA para **deflection, triagem, análise de atendimento e produtividade**;
-- Construção de playbooks, matrizes de teste e guardrails para agentes corporativos.
+- Criação de **agentes de IA para CS, Suporte e operações internas**
+- Desenvolvimento de **assistentes com base documental e respostas rastreáveis**
+- Estruturação de **dashboards para tomada de decisão executiva**
+- Automação de relatórios, fluxos e rotinas operacionais
+- Aplicação de IA para **triagem, deflection, produtividade e análise de atendimento**
+- Construção de **playbooks, prompts, matrizes de teste e guardrails**
+- Integração entre **Customer Success, Suporte, Dados e Tecnologia**
 
 ---
 
 ## Repositórios em destaque
 
-> Em construção: aqui ficarão os principais projetos públicos relacionados a IA, automação, dashboards e desenvolvimento web.
+> Em construção: seção destinada aos principais projetos públicos relacionados a IA, automação, dashboards e desenvolvimento web.
 
-```md
-- Agente de Relatórios Personalizados
-- Dashboard de Indicadores de CS
-- Automação com Python e APIs
-- Landing Page para Relatórios XML
-- Prompts e Agentes de IA
+Sugestões de organização:
+
+- **Agente de Relatórios Personalizados**
+- **Dashboard de Indicadores de CS**
+- **Automação com Python e APIs**
+- **Landing Page para Relatórios XML**
+- **Prompts e Agentes de IA**
+- **Base de Conhecimento para Assistentes Internos**
+
+---
+
+## Estatísticas no GitHub
+
+<div align="center">
+
+![Yann Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=Yann-Xavier&show_icons=true&theme=blueberry&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Xavier&layout=compact&theme=blueberry&locale=pt-br)
+
+</div>
+
+---
+
+## Linha de atuação
+
+```txt
+Liderança + Customer Success + Suporte + Dados + IA + Automação
