@@ -1,12 +1,18 @@
+<div align="center">
+
 # Yann Xavier
 
 ### Customer Success Leader | IA Aplicada · Engenharia de Prompt · Automação de Processos · Tecnologia & CX
 
-<img src="https://github.com/Yann-Xavier/IMG/blob/main/_4ca0d619-8f50-4491-914d-20cf7a320cbc.jpg?raw=true" width="260" height="260" title="Avatar Yann Xavier">
+<img src="https://raw.githubusercontent.com/Yann-Xavier/IMG/main/yann-xavier-ai-cs.png" width="420" alt="Yann Xavier - IA Aplicada, Customer Success, Automação e Dados">
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-xavierr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yann_xavierr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yann-Xavier)
+
+</div>
 
 ---
 
@@ -26,9 +32,8 @@ Atualmente, aplico **Inteligência Artificial Generativa, Engenharia de Prompt, 
 - Melhoria contínua em operações de atendimento;
 - Apoio à retenção, expansão e experiência do cliente.
 
-Minha principal tese de atuação é simples:
-
-> Tecnologia sem estratégia humana não escala. Estratégia sem tecnologia não sobrevive.
+> Tecnologia sem estratégia humana não escala.  
+> Estratégia sem tecnologia não sobrevive.
 
 ---
 
@@ -52,9 +57,7 @@ Minha principal tese de atuação é simples:
 
 ---
 
-## Principais competências
-
-### IA, Prompt Engineering e Agentes
+## IA, Prompt Engineering e Agentes
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -72,7 +75,7 @@ Minha principal tese de atuação é simples:
 
 ---
 
-### Desenvolvimento e Automação
+## Desenvolvimento e Automação
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -91,7 +94,7 @@ Minha principal tese de atuação é simples:
 
 ---
 
-### Dados, Indicadores e Business Intelligence
+## Dados, Indicadores e Business Intelligence
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -107,7 +110,7 @@ Minha principal tese de atuação é simples:
 
 ---
 
-### Gestão, CS e Melhoria Contínua
+## Gestão, CS e Melhoria Contínua
 
 ![Customer Success](https://img.shields.io/badge/Customer_Success-0077B5?style=for-the-badge)
 ![SaaS](https://img.shields.io/badge/SaaS-0A66C2?style=for-the-badge)
@@ -144,11 +147,9 @@ Atualmente, meus principais estudos e projetos estão concentrados em:
 
 > Em construção: aqui ficarão os principais projetos públicos relacionados a IA, automação, dashboards e desenvolvimento web.
 
-Sugestões de organização para esta seção:
-
 ```md
-- [Agente de Relatórios Personalizados](LINK_DO_REPOSITORIO)
-- [Dashboard de Indicadores de CS](LINK_DO_REPOSITORIO)
-- [Automação com Python e APIs](LINK_DO_REPOSITORIO)
-- [Landing Page Offline para Relatórios XML](LINK_DO_REPOSITORIO)
-- [Prompts e Agentes de IA](LINK_DO_REPOSITORIO)
+- Agente de Relatórios Personalizados
+- Dashboard de Indicadores de CS
+- Automação com Python e APIs
+- Landing Page para Relatórios XML
+- Prompts e Agentes de IA
