@@ -4,7 +4,7 @@
 
 ### Customer Success Leader | IA Aplicada · Engenharia de Prompt · Automação de Processos · Dados · Tecnologia & CX
 
-<img src="https://raw.githubusercontent.com/Yann-Xavier/IMG/main/ChatGPT%20Image%2013%20de%20mai.%20de%202026%2C%2015_47_36.png" width="460" alt="Yann Xavier - IA Aplicada, Customer Success, Automação e Dados">
+<img src="https://raw.githubusercontent.com/Yann-Xavier/yann-xavier-ai-cs/main/ChatGPT%20Image%2013%20de%20mai.%20de%202026%2C%2015_47_36.png" width="460" alt="Yann Xavier - IA Aplicada, Customer Success, Automação e Dados">
 
 <br><br>
 
@@ -179,3 +179,14 @@ Sugestões de organização:
 
 ```txt
 Liderança + Customer Success + Suporte + Dados + IA + Automação
+```
+
+Meu objetivo é transformar conhecimento operacional em sistemas mais inteligentes, confiáveis e escaláveis.
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/yann-xavierr](https://www.linkedin.com/in/yann-xavierr)
+- Instagram: [@yann_xavierr](https://www.instagram.com/yann_xavierr)
+- GitHub: [github.com/Yann-Xavier](https://github.com/Yann-Xavier)
