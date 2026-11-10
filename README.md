@@ -18,16 +18,19 @@ Essa trajetória orienta o que desenvolvo e estudo. Uso Python, JavaScript, SQL 
 
 ## Repositórios em destaque
 
+Laboratórios pequenos e reproduzíveis sobre falhas comuns em integrações. Cada um tem testes no CI e documenta o que não cobre.
+
 | Projeto | O que você encontra |
 | --- | --- |
-| [Consulta de CEP com Python](https://github.com/Yann-Xavier/python-api-consulta-cep) | Exemplo de consumo de uma API externa para consulta de endereços por CEP. |
-| [Análise de vendas com Python](https://github.com/Yann-Xavier/python-analise-vendas) | Projeto de estudo em análise de dados de vendas com Python. |
+| [Webhook Lab](https://github.com/Yann-Xavier/webhook-lab) · Python, FastAPI e SQLite | Receptor de webhooks idempotente. Reenvios e quatro entregas simultâneas do mesmo evento resultam em um único registro. |
+| [Outbox Lab](https://github.com/Yann-Xavier/Outbox-Lab) · Python e SQLite | Transactional Outbox. O evento e a entrega pendente são gravados na mesma transação, e os testes mostram que uma confirmação perdida gera reenvio. |
+| [Delivery Lab](https://github.com/Yann-Xavier/delivery-lab) · Python, FastAPI e SQLite | Os dois lados juntos, por HTTP. Um proxy descarta a resposta do receptor, o emissor reenvia, e o resultado são duas tentativas e um único registro. |
 
 ## Próximos projetos
 
 | Projeto planejado | O que quero demonstrar |
 | --- | --- |
-| **Webhook Lab** · API e ferramenta local | Simular a perda de uma resposta HTTP e provar com um teste de integração que o reenvio do evento não duplica seu efeito. |
+| **Retry Lab** · Ferramenta local | Tratar o evento que sempre falha: backoff com jitter, respeito ao `Retry-After`, limite de tentativas e fila de mensagens mortas, sem atrasar os demais eventos. |
 | **SLA Explorer** · Aplicação web | Mostrar como a reabertura de tickets altera o SLA e explicar o cálculo de cada caso com dados sintéticos. |
 | **Agente Sob Teste** · Aplicação local | Comparar versões de um agente de suporte em cenários com evidência suficiente, falta de informação e instruções maliciosas em documentos. |
 | **Plantão 429** · Jogo web | Simular incidentes de integração em que o jogador decide quando aguardar, reenviar ou investigar. |
@@ -45,7 +48,7 @@ Essa trajetória orienta o que desenvolvo e estudo. Uso Python, JavaScript, SQL 
 
 | Área | O que aplico ou estudo |
 | --- | --- |
-| **Integrações e automação** | APIs REST, Python, JavaScript, scripts operacionais, Git e Linux |
+| **Integrações e automação** | APIs REST, webhooks, Python, FastAPI, SQLite, JavaScript, scripts operacionais, Git, GitHub Actions e Linux |
 | **Desenvolvimento web e mobile** | React, HTML, CSS, Android Studio com Java e estudos de desenvolvimento multiplataforma |
 | **IA aplicada e agentes** | Engenharia de prompts, bases de conhecimento, respostas rastreáveis, avaliação, guardrails e defesa contra prompt injection |
 | **Dados e indicadores** | SQL, Power BI, Excel, dashboards e análise de métricas de onboarding, suporte e produtividade |
